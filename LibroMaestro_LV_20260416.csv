@@ -1,0 +1,5 @@
+﻿sep=;
+"Fecha";"Orden / Cliente";"Pieza";"Cantidad";"Kg_pieza";"Kg_totales";"Modo_cobro";"Ingreso_cliente";"Extra_dificultad";"Merma_%";"Retorno_%";"Kg_horno_necesario";"Costo_materiales";"Costo_contratista";"Costo_ayudantes";"Costo_total";"Ganancia";"Margen_%";"Socio_1";"Socio_2";"Resultado"
+"16/04/2026";"Sin descripción";"Pieza";1;100,00;100,00;"Por kg";0;0;8,0%;25,0%;144,93;0;0;0;222400;44480;0,0%;13344;31136;"GANANCIA"
+"";"Sin descripción — TOTAL";"---";"";"";100,00;"";0;"";"";"";144,93;0;0;0;222400;44480;0,0%;13344;31136;"GANANCIA"
+
